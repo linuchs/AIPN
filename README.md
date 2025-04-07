@@ -149,5 +149,3 @@ trainer.train()
 - **Hugging Face Hub**: Per salvare/modellare versioni diverse.
 - **Docker/NVIDIA Container Toolkit**: Per creare ambienti portabili con GPU.
 - **Weights & Biases (wandb)**: Per monitorare esperimenti remoti.
-
-Se hai bisogno di dettagli specifici su uno di questi approcci, fammelo sapere!
